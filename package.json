@@ -1,0 +1,22 @@
+{
+  "name": "yblog",
+  "version": "0.0.1",
+  "description": "Express web app",
+  "main": "app.js",
+  "scripts": {
+    "run": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@wzt3309-github:yasminyt/yblog.git"
+  },
+  "keywords": [
+    "express",
+    "webapp"
+  ],
+  "author": "wzt3309 & yasminyt",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
